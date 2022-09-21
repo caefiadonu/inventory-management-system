@@ -1,0 +1,7 @@
+INVENTORY SYSTEM IN C#
+
+**Login Details**
+
+Username : admin
+Password : admin
+
